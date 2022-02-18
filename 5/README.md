@@ -17,7 +17,7 @@
 
 Ссылки на скачивание:
 
-- [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
+- [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") ([Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit"))
 - [MasterOPC Universal Modbus Server](https://drive.google.com/file/d/1gKj-W5g06wFmacTKTg7TA-25U2k4xI9t/view?usp=sharing "MasterOPC Universal Modbus Server (Zip)")
 - [Matrikon OPC Explorer](https://drive.google.com/file/d/1G50COfrtY2KkFmSVi16BuPSSWetK0sje/view?usp=sharing "Matrikon OPC Explorer")
 - [Matrikon OPC HDA Explorer](https://drive.google.com/file/d/1JyQjTRuLhzjpsNQ7sxk_vD_42GMxfV6P/view?usp=sharing "Matrikon OPC HDA Explorer")
